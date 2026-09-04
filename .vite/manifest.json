@@ -1,0 +1,148 @@
+{
+  "_ModalShell-CWc2e3qs.js": {
+    "file": "_next/static/chunks/ModalShell-CWc2e3qs.js",
+    "name": "ModalShell",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_gear-DUfVrkoa.js": {
+    "file": "_next/static/chunks/gear-DUfVrkoa.js",
+    "name": "gear"
+  },
+  "_guideShared-DbbNraAm.js": {
+    "file": "_next/static/chunks/guideShared-DbbNraAm.js",
+    "name": "guideShared",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_report-issue-CF6dCwiq.js": {
+    "file": "_next/static/chunks/report-issue-CF6dCwiq.js",
+    "name": "report-issue",
+    "imports": [
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "app/AccessGuide.tsx": {
+    "file": "_next/static/chunks/AccessGuide-DYyZS3q4.js",
+    "name": "AccessGuide",
+    "src": "app/AccessGuide.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "app/WorldCatalog.tsx",
+      "_guideShared-DbbNraAm.js",
+      "_report-issue-CF6dCwiq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/ExpGuide.tsx": {
+    "file": "_next/static/chunks/ExpGuide-DqXVN6q2.js",
+    "name": "ExpGuide",
+    "src": "app/ExpGuide.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "app/WorldCatalog.tsx",
+      "_guideShared-DbbNraAm.js",
+      "_report-issue-CF6dCwiq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/GuidePortal.tsx": {
+    "file": "_next/static/chunks/GuidePortal-DCHANlZx.js",
+    "name": "GuidePortal",
+    "src": "app/GuidePortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_ModalShell-CWc2e3qs.js",
+      "_gear-DUfVrkoa.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "app/ExpGuide.tsx",
+      "app/AccessGuide.tsx",
+      "app/ItemCatalog.tsx",
+      "app/MonsterCatalog.tsx",
+      "app/WorldCatalog.tsx"
+    ]
+  },
+  "app/ItemCatalog.tsx": {
+    "file": "_next/static/chunks/ItemCatalog-3w4nGH-E.js",
+    "name": "ItemCatalog",
+    "src": "app/ItemCatalog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_gear-DUfVrkoa.js",
+      "_report-issue-CF6dCwiq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/MonsterCatalog.tsx": {
+    "file": "_next/static/chunks/MonsterCatalog-0v3su2h_.js",
+    "name": "MonsterCatalog",
+    "src": "app/MonsterCatalog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_ModalShell-CWc2e3qs.js",
+      "_report-issue-CF6dCwiq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/WorldCatalog.tsx": {
+    "file": "_next/static/chunks/WorldCatalog-BRdeX2jq.js",
+    "name": "WorldCatalog",
+    "src": "app/WorldCatalog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_ModalShell-CWc2e3qs.js",
+      "_report-issue-CF6dCwiq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_93f6fd6c708956198cb05a5cfe3fd3ab/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-X2SXdDxp.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_93f6fd6c708956198cb05a5cfe3fd3ab/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-B5oznoor.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_93f6fd6c708956198cb05a5cfe3fd3ab/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/GuidePortal.tsx"
+    ]
+  }
+}

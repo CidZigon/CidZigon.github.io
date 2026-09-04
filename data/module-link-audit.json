@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-09-03T15:58:21.838Z",
+  "summary": {
+    "modules": 8,
+    "total": 2257,
+    "resolved": 2257,
+    "unresolved": 0,
+    "localOccurrences": 2257,
+    "externalOccurrences": 0,
+    "uniqueExternal": 0,
+    "categories": {
+      "internal": 263,
+      "npc-local": 572,
+      "map-local": 959,
+      "monster-local": 31,
+      "reference-local": 424,
+      "item-local": 8
+    }
+  },
+  "external": [],
+  "unresolved": []
+}
